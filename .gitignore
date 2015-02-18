@@ -41,3 +41,43 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Ampps gitIgnore Directives
+*.exe
+*.dll
+*.ini
+*.err
+*.pid
+ampps/
+apache/
+conf/
+FileZilla/
+mongodb/
+mysql/data/performance_schema/
+mysql/data/auto.cnf
+mysql/data/ib_logfile0
+mysql/data/ib_logfile1
+mysql/bin/
+mysql/include/
+mysql/lib/
+mysql/scripts/
+mysql/share/
+mysql/sql-bench/
+perl/
+php/
+php-5.4/
+php-5.5/
+php-5.6/
+phpMyAdmin/
+private/
+python/
+RockMongo/
+SQliteManager/
+temp/
+tmp/
+www/cgi-bin/
+www/error/
+update-win
+unins000.dat
+changes.html
+README.txt
